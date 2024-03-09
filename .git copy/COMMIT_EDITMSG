@@ -1,0 +1,19 @@
+Praktikum 3 1st push 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   src/Praktikum/Prak2/Fahrer.php
+#	deleted:    src/Praktikum/Prak3/.gitkeep
+#	new file:   src/Praktikum/Prak3/Baeker.php
+#	new file:   src/Praktikum/Prak3/Bestellung.php
+#	new file:   src/Praktikum/Prak3/Fahrer.php
+#	new file:   src/Praktikum/Prak3/Kunde.php
+#	new file:   src/Praktikum/Prak3/KundenStatus.php
+#	new file:   src/Praktikum/Prak3/Page.php
+#	new file:   src/Praktikum/Prak3/Uebersicht.php
+#	new file:   src/Praktikum/Prak3/pizza.gif
+#
